@@ -1,2 +1,2 @@
 # LAM-for-task-automation
-Semester 5 at University of Luxembourg
+Semester 5 project at the University of Luxembourg
