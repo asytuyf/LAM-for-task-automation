@@ -1,1 +1,2 @@
-openai
+1 - Your own openai api key (not free)
+2 - *Optional* Your own api key from hugging face if mine stops working (free)
